@@ -142,6 +142,7 @@ export default class Innertube {
           signatureTimestamp: session.player?.sts
         }
       },
+      params: '8AEB',
       client: options?.client  
     };
 
